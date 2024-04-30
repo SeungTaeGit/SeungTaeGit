@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi! I'm Web Back-end developer SeungTae Lee.
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungTaeGit)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungTaeGit&layout=compact)](https://github.com/delay-100/github-readme-stats) -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungTaeGit)](https://github.com/anuraghazra/github-readme-stats) -->
