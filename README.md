@@ -51,6 +51,11 @@ Hi. I'm Web Back-end developer SeungTae Lee.
 <br>
 <br>
 
+### Archiving
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtaelee)](https://velog.io/@seungtaelee)
+<br>
+<br>
+
 ---
 ### 💬 Contact Me
 **💬 Email** : dltmdxo1589@daum.net <br>
