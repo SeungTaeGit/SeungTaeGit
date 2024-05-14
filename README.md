@@ -51,7 +51,7 @@ Hi. I'm Web Back-end developer SeungTae Lee.
 <br>
 <br>
 
-### Archiving
+### Archiving :egg:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtaelee)](https://velog.io/@seungtaelee)
 <br>
 <br>
