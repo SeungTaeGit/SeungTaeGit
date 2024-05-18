@@ -60,6 +60,6 @@ Hi. I'm Web Back-end developer SeungTae Lee.
 ### 💬 Contact Me
 **💬 Email** : dltmdxo1589@daum.net <br>
 **💬 Tech Blog** : https://velog.io/@seungtaelee/posts <br>
-**💬 Portpolio** : http://3.34.130.187:8080/
+**💬 Portfolio** : http://3.34.130.187:8080/
 
 <!-- </div> -->
