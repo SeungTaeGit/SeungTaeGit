@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ### Introduction :egg:
-Hi. I'm Web Back-end developer SeungTae Lee. V
+Hi. I'm Web Back-end developer SeungTae Lee.
 <br>
 <br>
 
