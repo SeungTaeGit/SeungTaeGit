@@ -63,7 +63,7 @@ Hi. I'm Web Back-end developer SeungTae Lee.
 ### 💬 Contact Me
 **💬 Email** : dltmdxo1589@daum.net <br>
 **💬 Tech Blog** : https://velog.io/@seungtaelee/posts <br>
-**💬 Portfolio** : http://172.31.8.80:8080/ <br>
+**💬 Portfolio** : http://43.201.83.22:8080/ <br>
 **💬 Resume(Notion)** : https://paper-vein-963.notion.site/Back-end-Developer-cecfa389771a4064ae934df50cc8bfa4?pvs=4
 
 <!-- </div> -->
