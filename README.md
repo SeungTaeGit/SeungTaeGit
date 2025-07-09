@@ -1,7 +1,6 @@
 <!-- <div align=center> -->
 
 ## 승태 SeungTae Lee
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungTaeGit%2Fhit-counter&count_bg=%23E6E6FA&title_bg=%23454555&icon=&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="mailto:dltmdxo1589@daum.net">
    <img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltmdxo1589@daum.net"/>
 </a>
