@@ -1,11 +1,11 @@
 <!-- <div align=center> -->
 
 ## 승태 SeungTae Lee
+<!--
 <a href="mailto:dltmdxo1589@daum.net">
    <img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltmdxo1589@daum.net"/>
 </a>
-<br>
-<br>
+-->
 
 <!--
 **SeungTaeGit/SeungTaeGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
