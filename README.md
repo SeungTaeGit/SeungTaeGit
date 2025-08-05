@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### Introduction :egg:
 Hi. I'm Web Back-end developer SeungTae Lee.
 <br>
 <br>
+-->
 
 ### Tech Stack :egg:
 <details>
